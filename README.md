@@ -1,6 +1,5 @@
 # Mcounsel
-GUI server for storing client purchase data
+
 
 ### Features:
-- mcbe.py: Acts as gateway, importing raw data from payment method, converting, and storing into local database file
-- mc.py: Easy to use GUI Server
+- Framework tool for moving raw xml data from downloads folder, converting and storing data in local database file displayed through GUI portal.
